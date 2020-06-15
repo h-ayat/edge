@@ -31,7 +31,7 @@ let s:configuration.current_word = get(g:, 'edge_current_word', get(g:, 'edge_tr
 if s:configuration.style ==# 'default'
   if &background ==# 'dark'
     let s:palette = {
-          \ 'bg0':        ['#2c2e34',   '235',  'Black'],
+          \ 'bg0':        ['#1b1b1e',   '235',  'Black'],
           \ 'bg1':        ['#30323a',   '236',  'DarkGrey'],
           \ 'bg2':        ['#30323a',   '236',  'DarkGrey'],
           \ 'bg3':        ['#363944',   '237',  'DarkGrey'],
