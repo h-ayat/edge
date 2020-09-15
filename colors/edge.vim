@@ -34,7 +34,7 @@ if s:configuration.style ==# 'default'
           \ 'bg0':        ['#121215',   '235',  'Black'],
           \ 'bg1':        ['#30323a',   '236',  'DarkGrey'],
           \ 'bg2':        ['#30323a',   '236',  'DarkGrey'],
-          \ 'bg3':        ['#000209',   '237',  'DarkGrey'],
+          \ 'bg3':        ['#232326',   '237',  'DarkGrey'],
           \ 'bg4':        ['#3b3e48',   '237',  'Grey'],
           \ 'bg5':        ['#414550',   '238',  'Grey'],
           \ 'bg_grey':    ['#828a98',   '246',  'LightGrey'],
